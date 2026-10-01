@@ -1,29 +1,29 @@
 # AI Run Relay
 
-工作先排好，等待交給工具，額度恢復自動接續。
+Plan the work first, wait for tool availability or quota recovery, and resume automatically when execution can continue.
 
-本儲存庫僅提供產品介紹與商業授權說明。排程、檢查點與平台執行接頭的核心原始碼保留於私有儲存庫，未在此提供。
+This repository provides product information and commercial licensing information only. The core source code for scheduling, checkpoints, and platform execution adapters remains in a private repository and is not included here.
 
-## 功能方向
+## Product direction
 
-- 任務排程、額度等待與進度保存。
-- 中文控制台、按需成果檢視。
-- 以使用者自己的官方工具執行工作。
+- Task scheduling, quota waiting, and progress persistence.
+- A Chinese-language control console with on-demand result review.
+- Execution through the user's own official tools.
 
-目前是原型驗證階段，尚未宣布正式公開執行檔。請勿將此介紹包視為可直接執行的產品。平台額度仍適用，不提供無限運算。
+This project is currently in the prototype validation stage. No publicly executable release has been announced. Do not treat this information package as an executable product. Platform quotas still apply; unlimited computation is not provided.
 
-## 商業授權
+## Commercial licensing
 
-商業用途須事先聯絡專案發起人並取得書面授權，包含企業內部營運、為客戶提供服務、收費部署或託管、SaaS 與商業產品整合。
+Commercial use requires prior written authorization from the project owner, including internal enterprise operations, providing services to customers, paid deployment or hosting, SaaS, and integration into commercial products.
 
-聯絡信箱：runiron.wu@gmail.com
+Contact: runiron.wu@gmail.com
 
-取得任何後續程式版本時，以該版本隨附的授權條款為準。本儲存庫不授予任何未公開核心程式的權利。
+For any subsequent source-code release, the license terms accompanying that release will apply. This repository grants no rights to any core source code that has not been publicly released.
 
-## 發行狀態
+## Release status
 
-- 版本：v0.1.3
-- 性質：公開產品介紹與商業授權說明
-- 核心程式：未公開
-- 可直接執行：否
-- 授權：本儲存庫未授予未公開核心程式的使用、複製、修改或再授權權利
+- Version: v0.1.3
+- Type: Public product information and commercial licensing information
+- Core source code: Not publicly released
+- Directly executable: No
+- License: This repository grants no rights to use, copy, modify, or relicense unreleased core source code

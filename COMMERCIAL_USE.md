@@ -1,7 +1,7 @@
-# 商業使用
+# Commercial Use
 
-AI Run Relay 商業用途須事先取得專案發起人的書面授權，包含企業內部營運、為客戶提供服務、收費部署或託管、SaaS 與商業產品整合。
+Commercial use of AI Run Relay requires prior written authorization from the project owner. This includes internal enterprise operations, providing services to customers, paid deployment or hosting, SaaS, and integration into commercial products.
 
-聯絡信箱：runiron.wu@gmail.com
+Contact: runiron.wu@gmail.com
 
-公開介紹文件不代表核心程式已公開，亦不授予未公開核心程式的使用、複製、修改或再授權權利。取得任何後續程式版本時，以該版本隨附的授權條款為準。
+The public information documents do not mean that the core source code has been released. They do not grant any rights to use, copy, modify, or relicense unreleased core source code. For any subsequent source-code release, the license terms accompanying that release will apply.
